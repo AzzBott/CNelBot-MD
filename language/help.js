@@ -443,6 +443,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Nekel
   *≻* Bagas Prdn
   *≻* Nelson
+  *≻* AzzBot
   *≻* Yang baca
   `
 }
@@ -994,6 +995,7 @@ exports.thanksto = () => {
   *≻* Nekel
   *≻* Bagas Prdn
   *≻* Nelson
+  *≻* AzzBot
   *≻* Yang baca
 `
 }
