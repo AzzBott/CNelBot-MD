@@ -34,7 +34,7 @@ global.footer = 'AzzBot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://vt.tiktok.com/ZSdPqwKTg/'
 global.ig = 'https://instagram.com/nelson_randanan'
-global.mygc = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib'
+global.mygc = 'https://chat.whatsapp.com/J2HWEw6ni111WIpbOpNOmG'
 global.myweb = 'https://vt.tiktok.com/ZSdPqwKTg/'
 global.email = 'yahyaadhid5@gmail.com'
 global.region = 'indonesia'
