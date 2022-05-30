@@ -474,15 +474,13 @@ Thanks!
 ———「 *SEWA | RUN BOT* 」———
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot Gratis/1grup (1 hari )
-  *≻* Sewa Bot 15k/1grup (1 minggu)
+  *≻* Sewa Bot 5k/1grup (1 minggu)
+  *≻* Sewa Bot 15k/1grup (3 minggu)
   *≻* Sewa Bot 20k/2grup (1 bulan)
-  *≻* Sewa Bot 30k/4grup (Permanen)
+  *≻* Sewa Bot 48k/3grup (1 tahun)
 
-  *JADI BOT*  *Tutup*
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 30k (Permanen)
+  *JADI BOT*  *Buka*
+  *≻* Jadi Bot + Owner 50k (Permanen)
 
   *JASA RUN BOT*
   *≻* Run Bot 15k (1 minggu)
