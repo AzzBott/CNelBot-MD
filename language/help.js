@@ -10,9 +10,9 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname} 🐦
 
 Saya ${botname}, Siap Membantu anda Kapan saja dan Di manapun 🐦
+
 Peraturannya Jangan di spam🗿
 gak terima Yok betumbu lagi 🗿
-
 
 
 `
@@ -443,13 +443,14 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Nekel
   *≻* Bagas Prdn
   *≻* Nelson
+  *≻* AzzBot
   *≻* Yang baca
   `
 }
 
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`★──────「*𝗪𝗲𝗹𝗰𝗼𝗺𝗲*」 ─────★\n\n┌────────────── \n│ *𝐇𝐚𝐥𝐨 𝐤𝐚𝐤👋*  \n│≻─「 *𝐈𝐍𝐓𝐑𝐎* 」─ \n│𝐍𝐚𝐦𝐚: \n│𝐔𝐦𝐮𝐫: \n│𝐆𝐞𝐧𝐝𝐞𝐫:\n│𝐀𝐬𝐤𝐨𝐭:\n│𝐒𝐭𝐚𝐭𝐮𝐬:\n\n┣━━━━━━━━━━━━━━━━━━━━━/n┃       { *Dhika Cloud* }/n┃\n┃ *〔 📦PRODUK 〕*\n┃⬡ HOSTING\n┃⬡ DOMAIN\n┃⬡ PL PREMIUM\n┃⬡ BOT HOSTING\n┃⬡ VPS/RDP\n┃⬡ Jasa Setup Server PMMP\n┣━━━━━━━━━━━━━━━━━\n┃ *〔 💸 PAYMENT〕*\n┃ *$* DANA\n┃ *$* GOPAY\n┃ *$* OVO\n┃ *$* SHOOPEPAY\n┃ *$* QRIS  \n┣━━━━━━━━━━━━━━━━━\n┃  𝗠𝗶𝗻𝗮𝘁? 𝗟𝗮𝗻𝗴𝘀𝘂𝗻𝗴 𝗮𝗷𝗮 𝗰𝗵𝗮𝘁 \n┃ wa.me/62 85258301898\n┣━━━━━━━━━━━━━━━━━\n┃ 𝗔𝘁𝗮𝘂 𝗷𝗼𝗶𝗻 𝗹𝗶𝗻𝗸 𝗴𝗿𝘂𝗽\n┃https://chat.whatsapp.com/Jom6i2ALqNIF2wcwUgK7QS \n┗━━━━━━━━━━━━━━━━━\n
+	return`★──────「*𝗪𝗲𝗹𝗰𝗼𝗺𝗲*」 ─────★\n\n┌────────────── \n│ *𝐇𝐚𝐥𝐨 𝐤𝐚𝐤👋*  \n│≻─「 *𝐈𝐍𝐓𝐑𝐎* 」─ \n│𝐍𝐚𝐦𝐚: \n│𝐔𝐦𝐮𝐫: \n│𝐆𝐞𝐧𝐝𝐞𝐫:\n│𝐀𝐬𝐤𝐨𝐭:\n│𝐒𝐭𝐚𝐭𝐮𝐬:\n┃\n┣━━━━━━━━━━━━━━━━━━━━━\n
 `
 }
 
@@ -473,15 +474,13 @@ Thanks!
 ———「 *SEWA | RUN BOT* 」———
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot Gratis/1grup (1 hari )
-  *≻* Sewa Bot 15k/1grup (1 minggu)
+  *≻* Sewa Bot 5k/1grup (1 minggu)
+  *≻* Sewa Bot 15k/1grup (3 minggu)
   *≻* Sewa Bot 20k/2grup (1 bulan)
-  *≻* Sewa Bot 30k/4grup (Permanen)
+  *≻* Sewa Bot 48k/3grup (1 tahun)
 
-  *JADI BOT*  *Tutup*
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 30k (Permanen)
+  *JADI BOT*  *Buka*
+  *≻* Jadi Bot + Owner 50k (Permanen)
 
   *JASA RUN BOT*
   *≻* Run Bot 15k (1 minggu)
@@ -495,7 +494,7 @@ Thanks!
   *Minat? Langsung chat aja ya cuy 🐦*
 
   *Contact person Owner* :
-  https://wa.me/message/LQNEJVLYV5HZI1
+  http://Wa.me/6281511480762
 `
 }
 
@@ -994,6 +993,7 @@ exports.thanksto = () => {
   *≻* Nekel
   *≻* Bagas Prdn
   *≻* Nelson
+  *≻* AzzBot
   *≻* Yang baca
 `
 }
